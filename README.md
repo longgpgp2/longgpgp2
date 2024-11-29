@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Nguyen Thanh Long!
 
-- 🌍 I'm a student of Hanoi University.
+- 🌍 I'm an IT undergraduate of Hanoi University.
 - 🌱 I’m currently learning Spring, Springboot.
 - 🔭 My goal is to gain practical experience in building robust web applications using Java technologies and frameworks, and learn from experienced developers throughout the development lifecycle.
 
